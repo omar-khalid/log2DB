@@ -1,3 +1,3 @@
 log2DB
 ======
-Requires **log2co/TCPSockets**
+Requires **log2co/log2Sockets**
